@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Я начинающий бэкэнд разработчик. <br>- ⚡ На данный момент прохожу курс КС50х от Гарвардского Университета</p>
+<p align="left">Я начинающий Backend разработчик.<br><br>- ⚡ На данный момент прохожу курс CS50x от Harvard University.</p>
 
 
 <p align="center">
@@ -39,25 +39,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/polyglotprog/c-logo/refs/heads/main/public/assets/images/c-logo.png" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/polyglotprog/c-logo/refs/heads/main/public/assets/images/c-logo.png" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="cpp logo"  />
   <img width="12" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+---
 
-###
+### 💻 Пройденные курсы:
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| CS50x/Introduction to Computer Science                       | 01/2025 - xx/2025 |
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
 ###
